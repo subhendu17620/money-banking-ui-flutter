@@ -1,5 +1,11 @@
 # money_banking_ui
 
+<img src="screenshot/sc.PNG" height="600"/>
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
